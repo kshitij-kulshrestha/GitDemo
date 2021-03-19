@@ -17,4 +17,10 @@ public class SeleniumTest {
         System.out.println("elementUi");
 
     }
+
+    @Test
+    public void forGit()
+    {
+        System.out.println("forGitinClassSelenium");
+    }
 }

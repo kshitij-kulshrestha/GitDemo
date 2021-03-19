@@ -14,4 +14,10 @@ public class AppiumTest {
     {
         System.out.println("IosApps");
     }
+
+    @Test
+    public void forGit()
+    {
+        System.out.println("forGitinClassAppium");
+    }
 }

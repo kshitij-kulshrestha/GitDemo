@@ -13,4 +13,10 @@ public class RestAssuredTest {
     {
         System.out.println("delete");
     }
+
+    @Test
+    public void forGit()
+    {
+        System.out.println("forGitinClassRestAssured");
+    }
 }
